@@ -5,13 +5,14 @@
  published by the Free Software Foundation; version 2 of the
  License.
 
+ Originally created by: rsn86
  Modified and translated to Portuguese by CarlosDiogo01
 
  Install it through:
    Scripting/Install Plugin/Module menu
    Select DBDocPy_grt.py file
    Restart MWB for the change to take effect.
-	 Use it by accessing on MySQL Workbench: Tools -> Catalog -> DBDocs
+   Use it by accessing on MySQL Workbench: Tools -> Catalog -> DBDocs
 
  This program is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
