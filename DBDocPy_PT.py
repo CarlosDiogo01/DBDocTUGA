@@ -80,7 +80,7 @@ def htmlDataDictionary(catalog):
 <body>"""
   for table in schema.tables:
     print >>htmlFile, "<table><caption>Tabela: %s - %s</caption>" % (table.name, table.comment)
-    print >>htmlFile, """<tr><td colspan=\"7\">Attributes</td></tr>
+    print >>htmlFile, """<tr><td colspan=\"7\">Atributos</td></tr>
 <tr>
 <th>Nome</th>
 <th>Tipo</th>
